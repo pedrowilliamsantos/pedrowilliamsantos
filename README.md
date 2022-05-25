@@ -1,7 +1,8 @@
 ### Eai , meu nome é Pedro William 👋
 
-- 🔭 Estou estagiando em desenvolvimetno de softwares e páginas web
-- 🌱 Estudando Java, JavaScript, XHTML/CSS, Banco de dados
+- 🔭 Desenvolverdor Web Front-End
+- 🌱 Habilidades em HTML5,CSS3, JavaScript e SQL Server
+- 🌱 Estudando ReactJS
 - 📫 Contate-me no email: pedrowilliam866@gmail.com
 - 😄 Pronouns: ele/dele
 
