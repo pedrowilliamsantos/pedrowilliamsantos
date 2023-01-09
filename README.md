@@ -1,8 +1,7 @@
 ### Eai , meu nome é Pedro William 👋
 
 - 🔭 Desenvolverdor Web Front-End
-- 🌱 Habilidades em HTML5,CSS3, JavaScript e SQL Server
-- 🌱 Estudando ReactJS
+- 🌱 Habilidades em JavaScript, React, SQL Server
 - 📫 Contate-me no email: pedrowilliam866@gmail.com
 - 😄 Pronouns: ele/dele
 
