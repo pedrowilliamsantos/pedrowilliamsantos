@@ -1,7 +1,7 @@
 ### Hi, my name is Pedro William 👋
 
 - 🔭 Web Developer
-- 🌱 Skills -> JavaScript, React, SQL Server
+- 🌱 JavaScript, React, TypeScript, Next, SQL Server
 - 📫 Email: pedrowilliam866@gmail.com
 
 <div align="center">
